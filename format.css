@@ -1,0 +1,115 @@
+
+
+.navUl{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #CCC;
+   
+}
+
+.navLi{
+
+    display: inline;
+}
+
+.navA{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none; 
+    font-size: 0.9em;
+    padding: 20px;
+    border-bottom-width:1px;
+    border-bottom-style:solid;
+    border-bottom-color:#CCC;
+    background-color:#EAEAEA;
+}
+
+.rojo{
+    background-color: orangered;
+    color: white;
+}
+
+a:hover{
+    opacity: 0.6;
+    color: #FFF;
+    background-color:black ;
+    border-right-width:5px;
+    border-right-style:solid;
+    border-right-color:black ;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+
+}
+
+
+.flex_container{
+    width: 900px;
+    height: 80px;
+    flex-direction: column;
+    display: flex;
+    
+}
+
+.fondoOso{
+    min-height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background-image: url("./Foto/d490d2e1-gp04azr_pressmedia-2100x0-c-default.jpg");
+}
+
+section{
+    position: absolute;
+    top: 100%;
+}
+
+.GreenpeaceLogo{
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.fondo_opaco{
+
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    font-size: 48px;
+    color: white;
+    background-color: #212529;
+    opacity: 0.75;
+
+}
+
+.texto{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    font-size: 48px;
+    color: white;
+}
+
+.move{
+    position: absolute;
+    top: 5%;
+    left: 30%;
+}
