@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Cambio climático</title>
+    <link rel=StyleSheet href="./CSS/css.css" type="text/css" media="screen">
+</head>
+
+<body>
+    <main>
+
+        <div>
+            <div class="arriba">
+                <h2>El cambio climático constituye la mayor amenaza medioambiental a la que se enfrenta la humanidad.</h2>
+            </div>
+            <div class="arriba1">
+                <img src="fotos/Iconoprincipalpag.PNG">
+            </div>
+        </div>
+        <br>
+
+        <br>
+
+        <div>
+            <div class="primero">
+                <p class="colorverdeletras">1,5</p>
+                <br>
+                <p class="colorverdeletras">grados</p>
+                <br>
+                <p>Cerca de 200 países acordaron fijar en 1,5 ºC el umbral máximo de aumento de la temperatura del planeta.</p>
+
+            </div>
+            <div class="primero">
+
+                <p class="colorverdeletras">0</p>
+                <br>
+                <p class="colorverdeletras">emisiones</p>
+                <br>
+                <p>Debemos reducir a cero las emisiones netas de gases de efecto invernadero para 2040 en toda la UE si no queremos vivir los peores efectos del cambio climático.</p>
+
+            </div>
+            <div class="primero">
+
+                <br>
+                <br>
+                <p class="colorverdeletras">81</p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+
+
+
+                <p>Según el Instituto Elcano, el 81% de la ciudadanía piensa que España no hace lo suficiente para luchar contra el cambio climático.</p>
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+
+
+
+        <br>
+        <br>
+
+
+
+
+        <div>
+            <div class="uno">
+                <img src="fotos/Flex1.jpg">
+                <br>
+                <img src="fotos/flex1.1.jpg">
+                <br>
+                <img src="fotos/flex1.2.jpg">
+            </div>
+
+
+            <div class="dos">
+                <h1><b>El problema</b></h1>
+
+
+                <p>El cambio climático es el mal de nuestro tiempo y sus consecuencias pueden ser devastadoras si no reducimos drásticamente la dependencia de los combustibles fósiles y las emisiones de gases de efecto invernadero. De hecho, los impactos del cambio climático ya son perceptibles y quedan puestos en evidencia por datos como:</p>
+                <ul>
+                    <li>La temperatura media mundial ha aumentado ya 1,1°C desde la época preindustrial</li>
+                    <li>El período 2015-2019, según la Organización Meteorológica Mundial (OMM), será probablemente el quinquenio más cálido jamás registrado</li>
+                    <li>La tasa de subida del nivel del mar ha ascendido a 5 mm al año en el quinquenio 2014 -2019</li>
+                </ul>
+                <p>Pero hoy también estamos viendo los <b>impactos económicos y sociales</b>, que serán cada vez más graves, como:</p>
+
+                <ul>
+                    <li>Daños en las cosechas y en la producción alimentaria</li>
+                    <li>Las sequías</li>
+                    <li>Los riesgos en la salud</li>
+                    <li>Los fenómenos meteorológicos extremos, como danas, tormentas y huracanes</li>
+                    <li><a href="https://es.greenpeace.org/es/trabajamos-en/bosques/incendios-forestales/">Mega-incendios</a></li>
+                </ul>
+                <p>En los peores escenarios probables que los expertos reflejan, el aumento de temperatura podría llegar a los 4,8 ºC para final de siglo. El cambio climático es un problema global que alcanza una perspectiva ambiental, política, económica y social en la que las peores previsiones también implican enormes pérdidas económicas. Y es que cuanto más tardemos en actuar, mucho más elevadas serán las inversiones para la adaptación al aumento de la temperatura.</p>
+
+                <p>El 79% de las emisiones de gases de efecto invernadero en la Unión Europea son debidas a la quema de combustibles para usos energéticos o de transporte, según datos de Eurostat.</p>
+
+                <p>Todavía en 2017, el 91% de la energía usada en España provenía de fuentes no renovables como <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/pagos-por-capacidad/">combustibles fósiles</a> o energía nuclear. De hecho España, junto con otros cinco países de la Unión Europea, acumulan alrededor del 70% de todos los gases de efecto invernadero del continente.</p>
+
+
+            </div>
+
+        </div>
+
+
+
+
+        <h1>La solución</h1>
+        <div>
+            <div class="fila1">
+
+                <p>El sector energético, debido a su uso de energías sucias —petróleo, carbón y gas—, es uno de los mayores contribuidores al calentamiento global. Unas 90 empresas son responsables de casi las dos terceras partes de las emisiones mundiales.<b> En España</b>, las grandes eléctricas —Endesa, Iberdrola, Naturgy, EDP y Viesgo— siguen generando buena parte de su electricidad usando fuentes no renovables, por eso trabajamos para que este modelo insostenible cambie y se acelere la transición a un sistema energético eficiente, inteligente, 100% renovable y democrático.
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    La <b>revolución energética</b> <a href="https://es.greenpeace.org/es/en-profundidad/cambia-la-energia-no-el-clima/alternativas-energia-cambio-climatico/">en manos de la ciudadanía</a> es el camino: con las <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/energias-renovables/">energías renovables</a> se conseguirán paliar los efectos del cambio climático y lograr una eficiencia energética que generará puestos de trabajo y reducirá los costes de electricidad. Necesitamos prescindir de los combustibles contaminantes y de la <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/energia-nuclear/">energía nuclear</a> y aumentar la participación de la ciudadanía para que se beneficie de la transición renovable.
+                </p>
+            </div>
+            <div class="fila2">
+                <p class="verde">
+                    «El cambio climático es una realidad que ya va a tener implicaciones inevitables, pero aún podemos minimizar sus consecuencias más severas»
+                </p>
+            </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="fila3">
+            <p class="textofoto">
+                <b class="greenpeace">Qué está haciendo Greenpeace</b>
+                <br>
+                <br>
+                Greenpeace trabaja para impulsar soluciones que consigan frenar el cambio climático, con especial atención en el sector energético (para acabar en primer lugar con el <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/carbon/">carbón</a> y la <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/energia-nuclear/">energía nuclear </a> y acelerar su sustitución por <a href="https://es.greenpeace.org/es/trabajamos-en/cambio-climatico/energias-renovables/">energías renovables</a>) y el transporte, apoyando políticas que hagan posible un sistema energético democrático y 100% renovable basado en el ahorro y la eficiencia, así como acuerdos y tratados internacionales que logren reducir las emisiones mundiales.
+                <br>
+                <br>
+                Muchos de los esfuerzos de Greenpeace están enfocados en el sector eléctrico, persiguiendo alcanzar <b>un modelo basado en energías limpias, libre de los gases de efecto invernadero</b> derivados del uso de combustibles fósiles. Solo hace falta voluntad y planificación del Gobierno y las empresas.
+            </p>
+        </div>
+        <h2 class="h21"><b>Qué puedes hacer tú</b></h2>
+        <div>
+            <div class="fila1">
+                <p><b>¡Actúa con tu consumo!</b> Adoptando unas sencillas medidas de eficiencia energética en tu casa ahorrarás dinero y contribuirás en la lucha contra el cambio climático.<a href="https://es.greenpeace.org/es/que-puedes-hacer-tu/consumo/ahorro-energia/"> Aquí te proponemos algunas</a>.
+                    <br>
+                    <br>
+                    <b>¡Súmate a Greenpeace!</b> Sé parte de nuestra organización para exigir a gobiernos y empresas que adopten políticas y prácticas sostenibles. Donde una persona no llega, un colectivo sí. <a href="https://es.greenpeace.org/es/que-puedes-hacer-tu/hazte-socio/">¡Pincha aquí para unirte a Greenpeace!</a>
+                </p>
+            </div>
+            <div class="fila4">
+                <img src="./fotos/flex%202.0.jpg" alt="Niña con pintura amarilla en la cara">
+            </div>
+        </div>
+        <hr>
+        <h2><b>Más información</b></h2>
+
+        <p><img src="./fotos/icono%20link.jpg" width="2%"><a href="https://es.greenpeace.org/es/que-puedes-hacer-tu/peticiones/cambio-climatico/"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Firma y exige al Gobierno que legisle ya contra el cambio climático</a></p>
+
+        <p><img src="./fotos/PDF.PNG" width="2%"><a href="http://archivo-es.greenpeace.org/espana/es/Informes-2017/Mayo/Ley-de-Cambio-Climatico-y-Transicion-Energetica/?_ga=2.167938274.210349208.1612354952-869138757.1611942689"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ley de Cambio Climático y Transición Energética</a></p>
+
+        <p><img src="./fotos/PDF.PNG" width="2%"><a href="https://es.greenpeace.org/es/sala-de-prensa/documentos/?tag=negociaciones-internacionales"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentos sobre negociaciones internacionales, 2018 en adelante</a></p>
+
+        <p><img src="./fotos/PDF.PNG" width="2%"><a href="http://archivo-es.greenpeace.org/espana/es/Trabajamos-en/Frenar-el-cambio-climatico/Negociaciones-Internacionales/?_ga=2.153321979.210349208.1612354952-869138757.1611942689"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Documentos sobre negociaciones internacionales, 2009-2017</a></p>
+
+        <p><img src="./fotos/icono%20link.jpg" width="2%"><a href="https://es.greenpeace.org/es/en-profundidad/?cat=cambio-climatico"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ver estudios en profundidad sobre cambio climático </a></p>
+
+        <br>
+
+        <h1 style="text-align: center">Contenido Relacionado</h1>
+        <div>
+            <div class="fotosfinal">
+                <ul>
+                    <img src="fotos/foto%20de%20abajo%201.jpg" width="30%">
+                    <img src="fotos/foto%20de%20abajo%202.jpg" width="36%">
+                    <img src="fotos/foto%20de%20abajo%203.jpg" width="30%">
+                </ul>
+            </div>
+        </div>
+
+
+        <a href="../Pagina/Relativo.html" target="_blank"><img src="fotos/icono%20link.jpg" alt="ICONO" height="50px"></a>
+
+
+
+    </main>
+</body></html>
